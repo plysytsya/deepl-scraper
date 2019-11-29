@@ -1,13 +1,16 @@
-=============
-deepl-scraper
-=============
+![GitHub Actions status | sdras/awesome-actions](https://github.com/plysytsya/conjugator/workflows/CI/badge.svg)
+
+
+## deepl-scraper
 
 
 Uses selenium to Scrape the deepL translator
 
 
-Description
-===========
+## Description
+
+Installation:
+	python setup.py install
 
 Usage:
 	>>> from deepl_scraper.translator import DeepLEngine
