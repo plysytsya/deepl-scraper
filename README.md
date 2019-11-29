@@ -21,8 +21,6 @@ Installation:
     >>> translator.translate("hello, world!")
     'Hallo, Welt!'
 
-# Warning:
-
 Every initialized engine leaves an open selenium webdriver instance.
 You can close it with:
 
