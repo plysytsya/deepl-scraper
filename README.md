@@ -4,7 +4,7 @@
 ## deepl-scraper
 
 
-Uses selenium to Scrape the deepL translator
+Uses selenium to Scrape the deepL translator.
 
 
 ## Description
