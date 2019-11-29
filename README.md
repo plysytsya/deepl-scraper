@@ -10,6 +10,7 @@ Uses selenium to Scrape the deepL translator
 ## Description
 
 Installation:
+
     python setup.py install
 
 # Usage:
