@@ -20,4 +20,7 @@ except VersionConflict:
 
 
 if __name__ == "__main__":
-    setup(use_pyscaffold=True)
+    setup(
+        install_requires=["pyscaffold>=3.2a0", "selenium~=3.141.0"],
+        use_pyscaffold=True
+    )
